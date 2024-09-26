@@ -3,7 +3,7 @@ body{
     background: url(bg.jpg);
     background-size: cover;
     box-sizing: border-box;
-    height: 100vh;
+    height: 95vh;
 }
 .inputfield{
     text-align: center;
